@@ -1,0 +1,55 @@
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.csproj.AssemblyReference.cache
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\OdtwarzaczAudiobookow.Form1.resources
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.csproj.GenerateResource.cache
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.AssemblyInfoInputs.cache
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.AssemblyInfo.cs
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.csproj.CoreCompileInputs.cache
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Odtwarzacz audiobookow.exe
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Odtwarzacz audiobookow.deps.json
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Odtwarzacz audiobookow.runtimeconfig.json
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Odtwarzacz audiobookow.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Odtwarzacz audiobookow.pdb
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\AsyncIO.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Microsoft.Extensions.ObjectPool.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NaCl.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\NetMQ.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\SoundTouch.Net.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\SoundTouch.Net.NAudioSupport.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\System.Private.ServiceModel.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\System.ServiceModel.Primitives.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\System.ServiceModel.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\TagLibSharp.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\cs\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\de\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\es\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\fr\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\it\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ja\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ko\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\pl\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\pt-BR\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ru\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\tr\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\zh-Hans\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\zh-Hant\System.Private.ServiceModel.resources.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarza.9E3EAFCD.Up2Date
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\refint\Odtwarzacz audiobookow.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.pdb
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\Odtwarzacz audiobookow.genruntimeconfig.cache
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\obj\Debug\net6.0-windows\ref\Odtwarzacz audiobookow.dll
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ambient\ambient_rain.wav
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ambient\ambient_forest.wav
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ambient\ambient_ocean.wav
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ambient\ambient_fire.wav
+C:\Users\anias\Desktop\Odtwarzacz audiobooków (4)\Odtwarzacz audiobooków\Odtwarzacz audiobooków\bin\Debug\net6.0-windows\ambient\ambient_cafe.wav

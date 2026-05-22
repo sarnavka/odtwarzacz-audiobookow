@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\speedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\speedcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\editbookform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\audiohelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\audiohelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w.csproj|C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\datamodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\metadataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\metadataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|c:\\users\\anias\\desktop\\odtwarzacz audiobook\u00F3w (4)\\odtwarzacz audiobook\u00F3w\\odtwarzacz audiobook\u00F3w\\networksyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EE4E7B3-09CA-40D8-A7BD-12455C59BBBD}|Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobookow.csproj|solutionrelative:odtwarzacz audiobook\u00F3w\\networksyncservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeedController.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\SpeedController.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\SpeedController.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\SpeedController.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\SpeedController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAAEQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T18:27:51.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DataModels.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\DataModels.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\DataModels.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\DataModels.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\DataModels.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA0wFcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T22:25:35.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Program.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Program.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Program.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:16:04.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.Designer.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Form1.Designer.cs",
+              "ViewState": "AgIAAFQBAAAAAAAAAAAEwGABAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:21:30.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Form1.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Form1.cs",
+              "ViewState": "AgIAADkFAAAAAAAAAAAUwE8FAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:15:36.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Editbookform.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Editbookform.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Editbookform.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Editbookform.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Editbookform.cs",
+              "ViewState": "AgIAAHsAAAAAAAAAAAAUwJEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T23:21:25.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Audiohelpers.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Audiohelpers.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Audiohelpers.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Audiohelpers.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Audiohelpers.cs",
+              "ViewState": "AgIAAGsAAAAAAAAAAAA0wIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T23:19:27.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Metadataservice.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Metadataservice.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Metadataservice.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Metadataservice.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Metadataservice.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAUwKcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:20:06.924Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Networksyncservice.cs",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Networksyncservice.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Networksyncservice.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Networksyncservice.cs",
+              "RelativeToolTip": "Odtwarzacz audiobook\u00F3w\\Networksyncservice.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAUwD4BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T19:19:37.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Projekt]",
+              "DocumentMoniker": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.cs",
+              "RelativeDocumentMoniker": "Odtwarzacz audiobook\u00F3w\\Form1.cs",
+              "ToolTip": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.cs [Projekt]",
+              "RelativeToolTip": "..\\..\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\Form1.cs [Projekt]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T17:14:57.633Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

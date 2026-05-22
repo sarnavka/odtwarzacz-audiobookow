@@ -1,0 +1,104 @@
+{
+  "AudioBooks": [
+    {
+      "Id": "9ed4d61e-c001-48bf-a4af-8874b6f89245",
+      "Title": "Animal Farm by George Orwell | Full Audiobook",
+      "Author": "Gates of Imagination",
+      "FilePath": "C:\\Users\\anias\\Desktop\\ambient\\audiobooki\\Animal Farm by George Orwell _ Full Audiobook.mp3",
+      "Duration": 11003.1444374,
+      "LastPosition": 9213.7865306,
+      "LastPlayed": "2026-01-22T14:13:37.8971477+01:00",
+      "CoverImagePath": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\bin\\Debug\\net6.0-windows\\covers\\9ed4d61e-c001-48bf-a4af-8874b6f89245.png",
+      "Chapters": [
+        {
+          "Title": "Rozdzia\u0142 1",
+          "StartTime": 0,
+          "EndTime": 1800
+        },
+        {
+          "Title": "Rozdzia\u0142 2",
+          "StartTime": 1800,
+          "EndTime": 3600
+        },
+        {
+          "Title": "Rozdzia\u0142 3",
+          "StartTime": 3600,
+          "EndTime": 5400
+        },
+        {
+          "Title": "Rozdzia\u0142 4",
+          "StartTime": 5400,
+          "EndTime": 7200
+        },
+        {
+          "Title": "Rozdzia\u0142 5",
+          "StartTime": 7200,
+          "EndTime": 9000
+        },
+        {
+          "Title": "Rozdzia\u0142 6",
+          "StartTime": 9000,
+          "EndTime": 10800
+        },
+        {
+          "Title": "Rozdzia\u0142 7",
+          "StartTime": 10800,
+          "EndTime": 11003.1444374
+        }
+      ]
+    },
+    {
+      "Id": "2e66c0d4-ef36-45be-b794-b2581f1ae993",
+      "Title": "The Metamorphosis by Franz Kafka  Free Audiobook_1080p",
+      "Author": "",
+      "FilePath": "C:\\Users\\anias\\Desktop\\ambient\\audiobooki\\The Metamorphosis by Franz Kafka  Free Audiobook_1080p.wav",
+      "Duration": 7730.4801814,
+      "LastPosition": 23.5298639,
+      "LastPlayed": "2026-01-22T14:12:27.595301+01:00",
+      "CoverImagePath": null,
+      "Chapters": [
+        {
+          "Title": "Rozdzia\u0142 1",
+          "StartTime": 0,
+          "EndTime": 1800
+        },
+        {
+          "Title": "Rozdzia\u0142 2",
+          "StartTime": 1800,
+          "EndTime": 3600
+        },
+        {
+          "Title": "Rozdzia\u0142 3",
+          "StartTime": 3600,
+          "EndTime": 5400
+        },
+        {
+          "Title": "Rozdzia\u0142 4",
+          "StartTime": 5400,
+          "EndTime": 7200
+        },
+        {
+          "Title": "Rozdzia\u0142 5",
+          "StartTime": 7200,
+          "EndTime": 7730.4801814
+        }
+      ]
+    }
+  ],
+  "SyncSettings": {
+    "Enabled": true,
+    "IsServerMode": false,
+    "ServerIP": "127.0.0.1",
+    "Port": 5555
+  },
+  "LastSpeed": 0.98,
+  "BackgroundVolume": 1,
+  "MainVolume": 1,
+  "LastPlayedBookId": "9ed4d61e-c001-48bf-a4af-8874b6f89245",
+  "BackgroundMusicPath": "C:\\Users\\anias\\Desktop\\Odtwarzacz audiobook\u00F3w (4)\\Odtwarzacz audiobook\u00F3w\\Odtwarzacz audiobook\u00F3w\\bin\\Debug\\net6.0-windows\\ambient\\ambient_rain.wav",
+  "BackgroundMusicEnabled": false,
+  "AutoResume": false,
+  "SeekSeconds": 60,
+  "SortBy": "Title",
+  "SortAscending": true
+}
